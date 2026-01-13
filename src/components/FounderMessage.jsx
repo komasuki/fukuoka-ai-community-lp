@@ -42,7 +42,7 @@ function FounderMessage() {
                 歴史や文脈そのもの。
               </p>
               <p>
-                コンテンツは消費される。でも、<strong>IP（あなた自身）は積み上がる。</strong>
+                コンテンツは消費される。でも、<strong>自分ブランドは積み上がる。</strong>
               </p>
               <p>
                 フォロワー数ではなく、<br />
@@ -61,7 +61,7 @@ function FounderMessage() {
             <blockquote>
               このコミュニティは、<br />
               AIを学ぶ場であると同時に、<br />
-              <strong>あなた自身のIPを<br />
+              <strong>あなた自身の自分ブランドを<br />
               仲間と一緒に育てていく場</strong><br />
               でありたいと思っています。
             </blockquote>

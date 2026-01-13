@@ -59,7 +59,7 @@ function Hero() {
             AIに興味はあるけど、何から始めればいいかわからない。<br />
             一人で学ぶのは心細い。一人で発信しても届かない。<br />
             <strong>だから、福岡で仲間と一緒に学び、発信し、<br />
-            お互いのIPを育てていくコミュニティを作ります。</strong>
+            お互いの自分ブランドを育てていくコミュニティを作ります。</strong>
           </p>
           <div className="hero-stats fade-in delay-3">
             {stats.map((stat, index) => (

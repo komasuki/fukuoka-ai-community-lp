@@ -41,7 +41,7 @@ function Channels() {
         </svg>
       ),
       name: 'TikTok',
-      description: 'メンバーの学びや作品を短尺動画で発信。顔出しなしでもOK。発信のハードルを下げて、IPを育てる第一歩に。',
+      description: 'メンバーの学びや作品を短尺動画で発信。顔出しなしでもOK。発信のハードルを下げて、自分ブランドを育てる第一歩に。',
       action: '準備中',
       actionLink: '#join',
       color: '#000000'
@@ -77,7 +77,7 @@ function Channels() {
         </svg>
       ),
       name: 'YouTube',
-      description: 'LT大会や対談企画のアーカイブ。出演することで、あなたのIPがコンテンツとして残り続けます。',
+      description: 'LT大会や対談企画のアーカイブ。出演することで、あなたの自分ブランドがコンテンツとして残り続けます。',
       action: '準備中',
       actionLink: '#join',
       color: '#FF0000'
@@ -104,7 +104,7 @@ function Channels() {
   return (
     <section id="channels" className="channels" ref={sectionRef}>
       <div className="container">
-        <h2 className="section-title">IPを育てるチャネル</h2>
+        <h2 className="section-title">自分ブランドを育てるチャネル</h2>
         <p className="section-subtitle">コンテンツは消費される。でも、あなた自身は積み上がる。</p>
 
         <div className="channel-grid">
